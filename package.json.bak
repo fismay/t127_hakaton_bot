@@ -1,0 +1,12 @@
+{
+  "name": "t127_hakaton_bot-miniapp",
+  "version": "1.0.0",
+  "description": "Мини-приложение для MAX — t127_hakaton_bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

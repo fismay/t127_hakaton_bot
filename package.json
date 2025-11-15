@@ -1,0 +1,13 @@
+{
+  "name": "t127_hakaton_bot-miniapp",
+  "version": "1.1.0",
+  "description": "MINI app for MAX - productivity tree",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "better-sqlite3": "^8.0.1"
+  }
+}

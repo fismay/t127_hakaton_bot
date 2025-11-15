@@ -1,0 +1,7 @@
+# This is a Node.js project. Install Node >=18 and npm >=9.
+node >= 18
+npm >= 9
+
+# npm dependencies (as listed in package.json)
+express@^4.18.2
+better-sqlite3@^8.0.1
